@@ -1,5 +1,3 @@
-# tryhackme-writeups
-My personal writeups and notes from TryHackMe learning paths.
 # TryHackMe Writeups
 
 This repository contains my personal writeups and notes from hands-on
