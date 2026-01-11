@@ -1,0 +1,27 @@
+# Authentication Basics – Advent of Cyber 2025
+
+## Overview
+This challenge focused on understanding authentication
+mechanisms used in web applications.
+
+## Security Concept
+Authentication verifies user identity, while sessions
+maintain user state after login.
+
+## What Was Done
+- Reviewed how login and session handling worked
+- Observed weak or insecure behavior
+- Analyzed authentication logic
+
+## Tools Used
+- Web browser
+- Application interface
+
+## Outcome
+The challenge demonstrated how weak authentication
+can lead to account-related risks.
+
+## Key Takeaways
+- Authentication is a common attack target
+- Session handling must be implemented securely
+- Logic flaws can be as dangerous as technical flaws
