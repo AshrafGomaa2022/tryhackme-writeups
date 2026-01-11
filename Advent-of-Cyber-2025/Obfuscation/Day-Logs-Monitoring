@@ -1,0 +1,27 @@
+# Logs and Monitoring – Advent of Cyber 2025
+
+## Overview
+This challenge introduced the importance of logs
+and monitoring in detecting security incidents.
+
+## Security Concept
+Logs provide visibility into system activity and
+are essential for incident detection and investigation.
+
+## What Was Done
+- Reviewed log entries
+- Identified suspicious or unusual behavior
+- Understood how logs support security monitoring
+
+## Tools Used
+- Log analysis interface
+- Provided challenge data
+
+## Outcome
+The challenge showed how logs help detect and
+understand security events.
+
+## Key Takeaways
+- Logs are critical for security visibility
+- Monitoring helps detect attacks early
+- Security is both offensive and defensive
