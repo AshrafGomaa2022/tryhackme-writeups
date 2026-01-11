@@ -1,0 +1,28 @@
+# Web Input Handling – Advent of Cyber 2025
+
+## Overview
+This challenge demonstrated how web applications process
+user-controlled input and how improper handling can cause
+security issues.
+
+## Security Concept
+Web vulnerabilities often occur when applications trust
+user input without proper validation or sanitization.
+
+## What Was Done
+- Observed how the application handled user input
+- Identified insecure input behavior
+- Analyzed the impact of improper validation
+
+## Tools Used
+- Web browser
+- Developer tools
+
+## Outcome
+The challenge showed how small logic issues can lead
+to serious security problems.
+
+## Key Takeaways
+- User input should never be trusted
+- Input validation is critical for security
+- Web fundamentals are essential for pentesting
